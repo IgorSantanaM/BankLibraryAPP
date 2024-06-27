@@ -6,7 +6,6 @@ BankUIForm is a C# Windows Forms application for managing bank account informati
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Methods](#methods)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -55,6 +54,6 @@ bankForm.SetTextBoxValues(data);
 // Retrieve values
 string[] retrievedData = bankForm.GetTextBoxValues();
 ```
-
+## License
 Replace `https://github.com/IgorSantanaM/BankLibraryAPP.git` with your actual repository URL where this `BankUIForm.cs` file resides. This Markdown file is structured to display properly on GitHub, with headers, code blocks, and lists formatted accordingly. Adjust the content and details as per your specific project requirements.
 
