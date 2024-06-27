@@ -31,6 +31,16 @@ To use BankUIForm in your application:
 - `ClearTextBoxes()`: Clears all text boxes on the form.
 - `SetTextBoxValues(string[] values)`: Sets text box values based on a string array.
 - `GetTextBoxValues()`: Retrieves text box values as a string array.
+  
+## Contributing
+
+Contributions are welcome! If you find a bug or want to enhance this application, feel free to open an issue or submit a pull request. Make sure to follow these guidelines:
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
 
 Example usage:
 
